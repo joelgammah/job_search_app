@@ -37,6 +37,10 @@ Before running the app, make sure you have the following installed:
 3. Explore the app's features, search for job listings, and enjoy a seamless job search experience.
 
 
+## Walkthrough
+
+https://github.com/joelgammah/job_search_app/assets/118084061/519da9a5-6b40-44db-a37d-a7169a8eb0b9
+
 
 ## Contributing
 
